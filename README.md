@@ -6,8 +6,8 @@ Mail me at - adilfaridi07@gmail.com<br>
 
 
 ## Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adilfaridiii)
-[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/ADILFARIDI) 
+[![Instagram](https://img.shields.io/badge/Instagram-000000.svg?logo=Instagram&logoColor=white)](https://instagram.com/adilfaridiii)
+[![Codepen](https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white)](https://codepen.io/ADILFARIDI) 
 
 # Programing </>:
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white) 
