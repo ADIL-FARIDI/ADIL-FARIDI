@@ -49,6 +49,4 @@ Mail me at - adilfaridi07@gmail.com<br>
 ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) 
 
 # GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ADIL-FARIDI&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ADIL-FARIDI&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ADIL-FARIDI&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
