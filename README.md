@@ -1,436 +1,52 @@
-<div class="unique">
-          <h1 data-shadow="Skills!">Skills!</h1>
-          &amp;nbsp
-          <img alt="Adil Faridi Portfolio, Portfolio, Best portfolio" height="50" width="50" src="https://cdn.simpleicons.org/atom/white">
-</div>
-        <div class="skillSection" style="width: 100%;
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 10px; 
-  padding: 10px 30px;
-  color: #ffffff;">
-          <div class="skilldiv" style='padding:20px 30px;display:flex;flex-direction:column;gap:20px;font-family:"Lexend Deca", sans-serif;border-right:1px solid #6969697a;'>
-            <h2>Frontend Technology</h2>
-            <div class="skillRow" style="width: 100%;
-  display: flex;
-  flex-wrap: wrap;
-  gap: 5px;">
-              <div class="skillChips skillChips1" style='width: max-content;
-  padding: 10px 15px;
-  background: #222222;
-  border: 1px solid #6969694f;
-  border-radius: 3px;
-  display: flex;
-  gap: 10px;
-  align-items: center;
-  font-family: "Lexend Deca", sans-serif;
-  white-space: nowrap;'>
-                <img alt="Adil Faridi Portfolio, Portfolio, Best portfolio" height="20" width="20" src="https://cdn.simpleicons.org/html5/white" style="padding: 0px !important;
-  margin: 0px !important;"><h4 style="padding:0px !important;margin:0px !important;font-size:1.2rem;">HTML</h4>
-              </div>
-              <div class="skillChips skillChips1" style='width: max-content;
-  padding: 10px 15px;
-  background: #222222;
-  border: 1px solid #6969694f;
-  border-radius: 3px;
-  display: flex;
-  gap: 10px;
-  align-items: center;
-  font-family: "Lexend Deca", sans-serif;
-  white-space: nowrap;'>
-                <img alt="Adil Faridi Portfolio, Portfolio, Best portfolio" height="20" width="20" src="https://cdn.simpleicons.org/css3/white" style="padding: 0px !important;
-  margin: 0px !important;"><h4 style="padding:0px !important;margin:0px !important;font-size:1.2rem;">CSS</h4>
-              </div>
-              <div class="skillChips skillChips1" style='width: max-content;
-  padding: 10px 15px;
-  background: #222222;
-  border: 1px solid #6969694f;
-  border-radius: 3px;
-  display: flex;
-  gap: 10px;
-  align-items: center;
-  font-family: "Lexend Deca", sans-serif;
-  white-space: nowrap;'>
-                <img alt="Adil Faridi Portfolio, Portfolio, Best portfolio" height="20" width="20" src="https://cdn.simpleicons.org/javascript/white" style="padding: 0px !important;
-  margin: 0px !important;"><h4 style="padding:0px !important;margin:0px !important;font-size:1.2rem;">JavaScript</h4>
-              </div>
-              <div class="skillChips skillChips1" style='width: max-content;
-  padding: 10px 15px;
-  background: #222222;
-  border: 1px solid #6969694f;
-  border-radius: 3px;
-  display: flex;
-  gap: 10px;
-  align-items: center;
-  font-family: "Lexend Deca", sans-serif;
-  white-space: nowrap;'>
-                <img alt="Adil Faridi Portfolio, Portfolio, Best portfolio" height="20" width="20" src="https://cdn.simpleicons.org/nextdotjs/white" style="padding: 0px !important;
-  margin: 0px !important;"><h4 style="padding:0px !important;margin:0px !important;font-size:1.2rem;">Next JS</h4>
-              </div>
-              <div class="skillChips skillChips1" style='width: max-content;
-  padding: 10px 15px;
-  background: #222222;
-  border: 1px solid #6969694f;
-  border-radius: 3px;
-  display: flex;
-  gap: 10px;
-  align-items: center;
-  font-family: "Lexend Deca", sans-serif;
-  white-space: nowrap;'>
-                <img alt="Adil Faridi Portfolio, Portfolio, Best portfolio" height="20" width="20" src="https://cdn.simpleicons.org/bootstrap/white" style="padding: 0px !important;
-  margin: 0px !important;"><h4 style="padding:0px !important;margin:0px !important;font-size:1.2rem;">Bootstrap</h4>
-              </div>
-              <div class="skillChips skillChips1" style='width: max-content;
-  padding: 10px 15px;
-  background: #222222;
-  border: 1px solid #6969694f;
-  border-radius: 3px;
-  display: flex;
-  gap: 10px;
-  align-items: center;
-  font-family: "Lexend Deca", sans-serif;
-  white-space: nowrap;'>
-                <img alt="Adil Faridi Portfolio, Portfolio, Best portfolio" height="20" width="20" src="https://cdn.simpleicons.org/tailwindcss/white" style="padding: 0px !important;
-  margin: 0px !important;"><h4 style="padding:0px !important;margin:0px !important;font-size:1.2rem;">Tailwindcss</h4>
-              </div>
-            </div>
-          </div>
-          <div class="skilldiv" style='padding:50px 30px;display:flex;flex-direction:column;gap:20px;font-family:"Lexend Deca", sans-serif;padding-top:20px;'>
-            <h2>Backend Technology</h2>
-            <div class="skillRow" style="width: 100%;
-  display: flex;
-  flex-wrap: wrap;
-  gap: 5px;">
-              <div class="skillChips skillChips1" style='width: max-content;
-  padding: 10px 15px;
-  background: #222222;
-  border: 1px solid #6969694f;
-  border-radius: 3px;
-  display: flex;
-  gap: 10px;
-  align-items: center;
-  font-family: "Lexend Deca", sans-serif;
-  white-space: nowrap;'>
-                <img alt="Adil Faridi Portfolio, Portfolio, Best portfolio" height="20" width="20" src="https://cdn.simpleicons.org/php/white" style="padding: 0px !important;
-  margin: 0px !important;"><h4 style="padding:0px !important;margin:0px !important;font-size:1.2rem;">php</h4>
-              </div>
-              <div class="skillChips skillChips1" style='width: max-content;
-  padding: 10px 15px;
-  background: #222222;
-  border: 1px solid #6969694f;
-  border-radius: 3px;
-  display: flex;
-  gap: 10px;
-  align-items: center;
-  font-family: "Lexend Deca", sans-serif;
-  white-space: nowrap;'>
-                <img alt="Adil Faridi Portfolio, Portfolio, Best portfolio" height="20" width="20" src="https://cdn.simpleicons.org/django/white" style="padding: 0px !important;
-  margin: 0px !important;"><h4 style="padding:0px !important;margin:0px !important;font-size:1.2rem;">django</h4>
-              </div>
-              <div class="skillChips skillChips1" style='width: max-content;
-  padding: 10px 15px;
-  background: #222222;
-  border: 1px solid #6969694f;
-  border-radius: 3px;
-  display: flex;
-  gap: 10px;
-  align-items: center;
-  font-family: "Lexend Deca", sans-serif;
-  white-space: nowrap;'>
-                <img alt="Adil Faridi Portfolio, Portfolio, Best portfolio" height="20" width="20" src="https://cdn.simpleicons.org/nodedotjs/white" style="padding: 0px !important;
-  margin: 0px !important;"><h4 style="padding:0px !important;margin:0px !important;font-size:1.2rem;">Node.js</h4>
-              </div>
-            </div>
-          </div>
-          <div class="skilldiv" style='padding:50px 30px;display:flex;flex-direction:column;gap:20px;font-family:"Lexend Deca", sans-serif;padding-top:20px;'>
-            <h2>Programming languages</h2>
-            <div class="skillRow" style="width: 100%;
-  display: flex;
-  flex-wrap: wrap;
-  gap: 5px;">
-              <div class="skillChips" style='width: max-content;
-  padding: 10px 15px;
-  background: #222222;
-  border: 1px solid #6969694f;
-  border-radius: 3px;
-  display: flex;
-  gap: 10px;
-  align-items: center;
-  font-family: "Lexend Deca", sans-serif;
-  white-space: nowrap;'>
-                <img alt="Adil Faridi Portfolio, Portfolio, Best portfolio" height="20" width="20" src="https://cdn.simpleicons.org/c++/white" style="padding: 0px !important;
-  margin: 0px !important;"><h4 style="padding:0px !important;margin:0px !important;font-size:1.2rem;">C/C++</h4>
-              </div>
-              <div class="skillChips" style='width: max-content;
-  padding: 10px 15px;
-  background: #222222;
-  border: 1px solid #6969694f;
-  border-radius: 3px;
-  display: flex;
-  gap: 10px;
-  align-items: center;
-  font-family: "Lexend Deca", sans-serif;
-  white-space: nowrap;'>
-                <i class="fa-brands fa-java fa-lg"></i>
-                <h4 style="padding:0px !important;margin:0px !important;font-size:1.2rem;">Java</h4>
-              </div>
-              <div class="skillChips" style='width: max-content;
-  padding: 10px 15px;
-  background: #222222;
-  border: 1px solid #6969694f;
-  border-radius: 3px;
-  display: flex;
-  gap: 10px;
-  align-items: center;
-  font-family: "Lexend Deca", sans-serif;
-  white-space: nowrap;'>
-                <img alt="Adil Faridi Portfolio, Portfolio, Best portfolio" height="20" width="20" src="https://cdn.simpleicons.org/python/white" style="padding: 0px !important;
-  margin: 0px !important;"><h4 style="padding:0px !important;margin:0px !important;font-size:1.2rem;">Python</h4>
-              </div>
-              <!-- <div class="skillChips">
-              <img alt="Adil Faridi Portfolio, Portfolio, Best portfolio" height="20" width="20" src="https://cdn.simpleicons.org/c++/white" />
-              <h4>
-                C/C++
-              </h4>
-            </div> -->
-            </div>
-          </div>
-          <div class="skilldiv" style='padding:50px 30px;display:flex;flex-direction:column;gap:20px;font-family:"Lexend Deca", sans-serif;padding-top:20px;'>
-            <h2>DataBase</h2>
-            <div class="skillRow" style="width: 100%;
-  display: flex;
-  flex-wrap: wrap;
-  gap: 5px;">
-              <div class="skillChips" style='width: max-content;
-  padding: 10px 15px;
-  background: #222222;
-  border: 1px solid #6969694f;
-  border-radius: 3px;
-  display: flex;
-  gap: 10px;
-  align-items: center;
-  font-family: "Lexend Deca", sans-serif;
-  white-space: nowrap;'>
-                <img alt="Adil Faridi Portfolio, Portfolio, Best portfolio" height="20" width="20" src="https://cdn.simpleicons.org/mysql/white" style="padding: 0px !important;
-  margin: 0px !important;"><h4 style="padding:0px !important;margin:0px !important;font-size:1.2rem;">Mysql</h4>
-              </div>
-              <div class="skillChips" style='width: max-content;
-  padding: 10px 15px;
-  background: #222222;
-  border: 1px solid #6969694f;
-  border-radius: 3px;
-  display: flex;
-  gap: 10px;
-  align-items: center;
-  font-family: "Lexend Deca", sans-serif;
-  white-space: nowrap;'>
-                <img alt="Adil Faridi Portfolio, Portfolio, Best portfolio" height="20" width="20" src="https://cdn.simpleicons.org/mariadb/white" style="padding: 0px !important;
-  margin: 0px !important;"><h4 style="padding:0px !important;margin:0px !important;font-size:1.2rem;">Mariadb</h4>
-              </div>
-              <div class="skillChips" style='width: max-content;
-  padding: 10px 15px;
-  background: #222222;
-  border: 1px solid #6969694f;
-  border-radius: 3px;
-  display: flex;
-  gap: 10px;
-  align-items: center;
-  font-family: "Lexend Deca", sans-serif;
-  white-space: nowrap;'>
-                <img alt="Adil Faridi Portfolio, Portfolio, Best portfolio" height="20" width="20" src="https://cdn.simpleicons.org/mongodb/white" style="padding: 0px !important;
-  margin: 0px !important;"><h4 style="padding:0px !important;margin:0px !important;font-size:1.2rem;">Mongodb</h4>
-              </div>
-              <!-- <div class="skillChips">
-              <img alt="Adil Faridi Portfolio, Portfolio, Best portfolio" height="20" width="20" src="https://cdn.simpleicons.org/c++/white" />
-              <h4>
-                C/C++
-              </h4>
-            </div> -->
-            </div>
-          </div>
-          <div class="skilldiv" style='padding:50px 30px;display:flex;flex-direction:column;gap:20px;font-family:"Lexend Deca", sans-serif;padding-top:20px;'>
-            <h2>Attention to Detail</h2>
-            <div class="skillRow" style="width: 100%;
-  display: flex;
-  flex-wrap: wrap;
-  gap: 5px;">
-              <div class="skillChips skillChips2" style='width: max-content;
-  padding: 10px 15px;
-  background: #222222;
-  border: 1px solid #6969694f;
-  border-radius: 3px;
-  display: flex;
-  gap: 10px;
-  align-items: center;
-  font-family: "Lexend Deca", sans-serif;
-  white-space: nowrap;'>
-                <img alt="Adil Faridi Portfolio, Portfolio, Best portfolio" height="20" width="20" src="https://cdn.simpleicons.org/adobephotoshop/white" style="padding: 0px !important;
-  margin: 0px !important;"><h4 style="padding:0px !important;margin:0px !important;font-size:1.2rem;">Photoshop</h4>
-              </div>
-              <div class="skillChips skillChips2" style='width: max-content;
-  padding: 10px 15px;
-  background: #222222;
-  border: 1px solid #6969694f;
-  border-radius: 3px;
-  display: flex;
-  gap: 10px;
-  align-items: center;
-  font-family: "Lexend Deca", sans-serif;
-  white-space: nowrap;'>
-                <img alt="Adil Faridi Portfolio, Portfolio, Best portfolio" height="20" width="20" src="https://cdn.simpleicons.org/adobelightroom/white" style="padding: 0px !important;
-  margin: 0px !important;"><h4 style="padding:0px !important;margin:0px !important;font-size:1.2rem;">Lightroom</h4>
-              </div>
-              <div class="skillChips skillChips2" style='width: max-content;
-  padding: 10px 15px;
-  background: #222222;
-  border: 1px solid #6969694f;
-  border-radius: 3px;
-  display: flex;
-  gap: 10px;
-  align-items: center;
-  font-family: "Lexend Deca", sans-serif;
-  white-space: nowrap;'>
-                <img alt="Adil Faridi Portfolio, Portfolio, Best portfolio" height="20" width="20" src="https://cdn.simpleicons.org/adobepremierepro/white" style="padding: 0px !important;
-  margin: 0px !important;"><h4 style="padding:0px !important;margin:0px !important;font-size:1.2rem;">Premiere Pro</h4>
-              </div>
-              <div class="skillChips skillChips2" style='width: max-content;
-  padding: 10px 15px;
-  background: #222222;
-  border: 1px solid #6969694f;
-  border-radius: 3px;
-  display: flex;
-  gap: 10px;
-  align-items: center;
-  font-family: "Lexend Deca", sans-serif;
-  white-space: nowrap;'>
-                <img alt="Adil Faridi Portfolio, Portfolio, Best portfolio" height="20" width="20" src="https://cdn.simpleicons.org/adobeaftereffects/white" style="padding: 0px !important;
-  margin: 0px !important;"><h4 style="padding:0px !important;margin:0px !important;font-size:1.2rem;">After Effects</h4>
-              </div>
-              <div class="skillChips skillChips2" style='width: max-content;
-  padding: 10px 15px;
-  background: #222222;
-  border: 1px solid #6969694f;
-  border-radius: 3px;
-  display: flex;
-  gap: 10px;
-  align-items: center;
-  font-family: "Lexend Deca", sans-serif;
-  white-space: nowrap;'>
-                <img alt="Adil Faridi Portfolio, Portfolio, Best portfolio" height="20" width="20" src="https://cdn.simpleicons.org/dribbble/white" style="padding: 0px !important;
-  margin: 0px !important;"><h4 style="padding:0px !important;margin:0px !important;font-size:1.2rem;">Dribble</h4>
-              </div>
-              <div class="skillChips skillChips2" style='width: max-content;
-  padding: 10px 15px;
-  background: #222222;
-  border: 1px solid #6969694f;
-  border-radius: 3px;
-  display: flex;
-  gap: 10px;
-  align-items: center;
-  font-family: "Lexend Deca", sans-serif;
-  white-space: nowrap;'>
-                <img alt="Adil Faridi Portfolio, Portfolio, Best portfolio" height="20" width="20" src="https://cdn.simpleicons.org/freelancer/white" style="padding: 0px !important;
-  margin: 0px !important;"><h4 style="padding:0px !important;margin:0px !important;font-size:1.2rem;">Filmora</h4>
-              </div>
-              <div class="skillChips skillChips2" style='width: max-content;
-  padding: 10px 15px;
-  background: #222222;
-  border: 1px solid #6969694f;
-  border-radius: 3px;
-  display: flex;
-  gap: 10px;
-  align-items: center;
-  font-family: "Lexend Deca", sans-serif;
-  white-space: nowrap;'>
-                <img alt="Adil Faridi Portfolio, Portfolio, Best portfolio" height="20" width="20" src="https://cdn.simpleicons.org/libreoffice/white" style="padding: 0px !important;
-  margin: 0px !important;"><h4 style="padding:0px !important;margin:0px !important;font-size:1.2rem;">CorelDraw</h4>
-              </div>
-              <div class="skillChips skillChips2" style='width: max-content;
-  padding: 10px 15px;
-  background: #222222;
-  border: 1px solid #6969694f;
-  border-radius: 3px;
-  display: flex;
-  gap: 10px;
-  align-items: center;
-  font-family: "Lexend Deca", sans-serif;
-  white-space: nowrap;'>
-                <img alt="Adil Faridi Portfolio, Portfolio, Best portfolio" height="20" width="20" src="https://cdn.simpleicons.org/canva/white" style="padding: 0px !important;
-  margin: 0px !important;"><h4 style="padding:0px !important;margin:0px !important;font-size:1.2rem;">Canva</h4>
-              </div>
-              <div class="skillChips skillChips2" style='width: max-content;
-  padding: 10px 15px;
-  background: #222222;
-  border: 1px solid #6969694f;
-  border-radius: 3px;
-  display: flex;
-  gap: 10px;
-  align-items: center;
-  font-family: "Lexend Deca", sans-serif;
-  white-space: nowrap;'>
-                <img alt="Adil Faridi Portfolio, Portfolio, Best portfolio" height="20" width="20" src="https://cdn.simpleicons.org/figma/white" style="padding: 0px !important;
-  margin: 0px !important;"><h4 style="padding:0px !important;margin:0px !important;font-size:1.2rem;">Figma</h4>
-              </div>
-            </div>
-          </div>
-          <div class="skilldiv" style='padding:50px 30px;display:flex;flex-direction:column;gap:20px;font-family:"Lexend Deca", sans-serif;padding-top:20px;'>
-            <h2>Creative Expertise</h2>
-            <div class="skillRow" style="width: 100%;
-  display: flex;
-  flex-wrap: wrap;
-  gap: 5px;">
-              <div class="skillChips skillChips3" style='width: max-content;
-  padding: 10px 15px;
-  background: #222222;
-  border: 1px solid #6969694f;
-  border-radius: 3px;
-  display: flex;
-  gap: 10px;
-  align-items: center;
-  font-family: "Lexend Deca", sans-serif;
-  white-space: nowrap;'>
-                <img alt="Adil Faridi Portfolio, Portfolio, Best portfolio" height="20" width="20" src="https://cdn.simpleicons.org/taichigraphics/white" style="padding: 0px !important;
-  margin: 0px !important;"><h4 style="padding:0px !important;margin:0px !important;font-size:1.2rem;">Team Leadership</h4>
-              </div>
-              <div class="skillChips skillChips3" style='width: max-content;
-  padding: 10px 15px;
-  background: #222222;
-  border: 1px solid #6969694f;
-  border-radius: 3px;
-  display: flex;
-  gap: 10px;
-  align-items: center;
-  font-family: "Lexend Deca", sans-serif;
-  white-space: nowrap;'>
-                <img alt="Adil Faridi Portfolio, Portfolio, Best portfolio" height="20" width="20" src="https://cdn.simpleicons.org/piwigo/white" style="padding: 0px !important;
-  margin: 0px !important;"><h4 style="padding:0px !important;margin:0px !important;font-size:1.2rem;">Photography</h4>
-              </div>
-              <div class="skillChips skillChips3" style='width: max-content;
-  padding: 10px 15px;
-  background: #222222;
-  border: 1px solid #6969694f;
-  border-radius: 3px;
-  display: flex;
-  gap: 10px;
-  align-items: center;
-  font-family: "Lexend Deca", sans-serif;
-  white-space: nowrap;'>
-                <i class="fa-solid fa-video"></i>
-                <h4 style="padding:0px !important;margin:0px !important;font-size:1.2rem;">Cinematographer</h4>
-              </div>
-              <div class="skillChips skillChips3" style='width: max-content;
-  padding: 10px 15px;
-  background: #222222;
-  border: 1px solid #6969694f;
-  border-radius: 3px;
-  display: flex;
-  gap: 10px;
-  align-items: center;
-  font-family: "Lexend Deca", sans-serif;
-  white-space: nowrap;'>
-                <i class="fa-solid fa-calendar-days"></i>
-                <h4 style="padding:0px !important;margin:0px !important;font-size:1.2rem;">Event Mgmt</h4>
-              </div>
-            </div>
-          </div>
-        </div>
+# About Me:
+I’m currently working on Raspberry pi to operate it remotely.<br>
+I’m currently learning Backend.<br>
+All of my projects are available at https://adilfaridiportfolio.netlify.app/<br>
+Mail me at - adilfaridi07@gmail.com<br>
+
+
+## Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-000000.svg?logo=Instagram&logoColor=white)](https://instagram.com/adilfaridiii)
+[![Codepen](https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white)](https://codepen.io/ADILFARIDI) 
+
+# Programing </>:
+![C](https://img.shields.io/badge/C-%230769AD.svg?style=flat&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2338B2AC.svg?style=flat&logo=c%2B%2B&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-%23092E20.svg?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%2320232a?style=flat&logo=python&logoColor=white) 
+
+# Front-End </>:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) 
+
+# Front-End-Framework </>:
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) 
+![TailwindCSS](https://img.shields.io/badge/Tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) 
+
+#  Backend-End </>:
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) 
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white) 
+
+# DataBase:
+![MySQL](https://img.shields.io/badge/Mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) 
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) 
+
+# Extra's:
+![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) 
+![Adobe Photoshop](https://img.shields.io/badge/Adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white) 
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) 
+![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white) 
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 	
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) 
+![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=flat&logo=dribbble&logoColor=white) 
+![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139) 
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi)
+![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) 
+
+# GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ADIL-FARIDI&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
