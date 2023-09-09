@@ -11,7 +11,7 @@ Mail me at - adilfaridi07@gmail.com<br>
 
 # Programing </>:
 ![C](https://img.shields.io/badge/C-%230769AD.svg?style=flat&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-000000.svg?style=flat&logo=c%2B%2B&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2320232a.svg?style=flat&logo=c%2B%2B&logoColor=white) 
 ![Java](https://img.shields.io/badge/Java-000000.svg?style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=white) 
 
