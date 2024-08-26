@@ -1,6 +1,4 @@
 # About Me:
-I’m currently working on Raspberry pi to operate it remotely.<br>
-I’m currently learning Backend.<br>
 All of my projects are available at https://adilfaridiportfolio.netlify.app/<br>
 Mail me at - adilfaridi07@gmail.com<br>
 
